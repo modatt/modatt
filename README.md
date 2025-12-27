@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Maryam Odat</h1>
+<h1 align="center">Hi there, This is Maryam Odat</h1>
 
 <p align="center">
   <em>Software Engineer | Data Analyst</em>
 </p>
 
-### 🧠 Tech Stack
+### Languages
 
 <p align="center">
   <!-- C -->
