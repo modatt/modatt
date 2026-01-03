@@ -32,14 +32,15 @@
 - 📊 Applied Economics & Research Analytics
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MaryamOdat&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamOdat&theme=radical" alt="GitHub Streak"/>
-</p>
 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=modatt&show_icons=true&theme=radical" alt="GitHub Stats"/>
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=modatt&theme=radical" alt="GitHub Streak"/>
+
+</p>
 ---
 
 ### 🌐 Connect with Me
