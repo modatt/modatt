@@ -4,16 +4,22 @@
   <em>Software Engineer | Data Analyst</em>
 </p>
 
-### Languages
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <!-- Jupyter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Shell" alt="Shell" width="50" height="50"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/looker-1.svg" title="Looker" alt="Looker" width="50" height="50"/>
 </p>
 
 ---
@@ -26,7 +32,6 @@
 - 📊 Applied Economics & Research Analytics
 
 ---
-
 
 ### 📊 GitHub Stats
 
@@ -44,9 +49,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/maryam-odat
-
-/" target="_blank">
+  <a href="https://www.linkedin.com/in/maryam-odat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
