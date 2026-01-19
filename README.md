@@ -22,6 +22,12 @@
   <img src="https://cdn.worldvectorlogo.com/logos/looker-1.svg" title="Looker" alt="Looker" width="50" height="50"/>
 </p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/>
+</p>
+
+
 ---
 
 ### 🧩 Interests
